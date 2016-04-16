@@ -41,6 +41,7 @@
                     @"实现字典转模型的自动转换"
                     ];
 
+    self.tableView.tableFooterView = [UIView new];
     
 }
 
